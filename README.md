@@ -1,18 +1,21 @@
-### 🛠️ TECH STACK
+# 🛠️ TECH STACK
 
-#### Languages
-![](https://img.shields.io/badge/Lua-323235?style=for-the-badge&logo=Lua&logoColor=00baff) 
-![](https://img.shields.io/badge/Python-323235?style=for-the-badge&logo=Python&logoColor=00ff79)
+## Languages
+### Main
+![](https://img.shields.io/badge/Lua-323235?style=for-the-badge&logo=Lua&logoColor=00baff) ![](https://img.shields.io/badge/Game%20scripting%20(gmodstore)-323235?style=for-the-badge)\
+![](https://img.shields.io/badge/Python-323235?style=for-the-badge&logo=Python&logoColor=00ff79) ![](https://img.shields.io/badge/WEB%20Backend,%20Bots,%20LLM-323235?style=for-the-badge)\
+![](https://img.shields.io/badge/CPP-323235?style=for-the-badge&logo=CPLUSPLUS&logoColor=3a8cff) ![](https://img.shields.io/badge/Side%20projects-323235?style=for-the-badge)
+### Web
 ![](https://img.shields.io/badge/HTML-323235?style=for-the-badge&logo=HTML5&logoColor=ffb400) 
 ![](https://img.shields.io/badge/Javascript-323235?style=for-the-badge&logo=Javascript&logoColor=ffb400)
 ![](https://img.shields.io/badge/CSS-323235?style=for-the-badge&logo=CSS3&logoColor=ffb400)
+### Additional
 ![](https://img.shields.io/badge/C-323235?style=for-the-badge&logo=C&logoColor=3a8cff)
-![](https://img.shields.io/badge/CPP-323235?style=for-the-badge&logo=CPLUSPLUS&logoColor=3a8cff)
 ![](https://img.shields.io/badge/CSHARP-323235?style=for-the-badge&logo=sharp&logoColor=3a8cff)
 ![](https://img.shields.io/badge/Java-323235?style=for-the-badge&logo=jameson&logoColor=3a8cff)
 ![](https://img.shields.io/badge/Matlab-323235?style=for-the-badge&logo=libreofficemath&logoColor=3a8cff)
 
-#### Tools / Frameworks
+## Tools / Frameworks
 ![](https://img.shields.io/badge/PostgreSQL-00865e?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![](https://img.shields.io/badge/sqlite-00865e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/mongodb-00865e?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,7 +31,7 @@
 
 ---
 
-### 🔗 Links
+## 🔗 Links
 
 [![](https://img.shields.io/badge/GMODSTORE%20PRODUCTS-8A2BE2?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)](https://www.gmodstore.com/users/76561198123505655/products)
 [![](https://img.shields.io/badge/Steam-8A2BE2?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/onexev/)
